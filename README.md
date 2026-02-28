@@ -6,7 +6,7 @@ Play against the computer — first to reach 5 points wins the game!
 ---
 
 ## 🚀 Live Preview  
-👉 [Play Now](https://sc0rpx.me/Rock-Paper-Scissors/)
+👉 [Play Now](https://sc0rpx.github.io/Rock-Paper-Scissors/)
 
 ---
 
